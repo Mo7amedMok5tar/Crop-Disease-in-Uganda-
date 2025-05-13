@@ -119,12 +119,7 @@ A user-friendly interface was created using **Streamlit**, allowing users to upl
    git clone https://github.com/Mo7amedMok5tar/Crop-Disease-in-Uganda-.git
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Streamlit app:
+2. Run the Streamlit app:
    ```bash
    streamlit run app/app.py
    ```
